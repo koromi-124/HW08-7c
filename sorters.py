@@ -1,5 +1,3 @@
-# sorters.py
-
 def counting_sort(arr):
     """
     計數排序：適用於 16-bit 整數 (0-65535)
